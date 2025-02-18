@@ -2,7 +2,7 @@
 
 ## Overview
 
-Jobly is a full-stack job board application that allows users to browse companies, view job listings, and apply for jobs. This is the **backend** repository, built with **Node.js and Express**.
+Jobly is a full-stack job board application that allows users to browse companies, view job listings, and apply for jobs. This is the **backend** repository, built with **Node.js and Express**.  A mock database is used with machine generated data.
 
 **Repository URL:** [https://github.com/marialclark/JoblyBackend](https://github.com/marialclark/JoblyBackend)
 
